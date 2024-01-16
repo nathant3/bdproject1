@@ -4,7 +4,7 @@
 2. Are there any trends in movie budgets and revenues over the years?
 3. Do movies released in specific months or days of the week tend to perform better?
 
-      ### Budget vs. Revenue and Profitability:
+        ### Budget vs. Revenue and Profitability:
    - We found a positive correlation between a movie's budget and its revenue, suggesting that higher budget movies generally tend to earn more at the box office.
    - However, it's important to note that this relationship is not absolute. Some high-budget movies did not perform as well in terms of revenue, indicating that other factors may also play a significant role in a movie's financial success.
 
