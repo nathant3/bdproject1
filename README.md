@@ -1,4 +1,4 @@
-              ## Main findings and key insights
+# Main findings and key insights
 
 1. How does the budget of a movie relate to its revenue and profitability?
 2. Are there any trends in movie budgets and revenues over the years?
